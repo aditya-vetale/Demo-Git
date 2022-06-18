@@ -90,11 +90,9 @@ websites is most often an HTML file. Once the server receives the
 request, it will reply with relevant response headers and the contents
 of the HTML.
 
-\<!doctype HTML\>
-
-\<html\>
-
-\<head\>
+<!doctype HTML\>
+<html\>
+<head\>
 
 \<meta charset=\"UTF-8\"/\>
 
